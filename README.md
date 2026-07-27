@@ -3,6 +3,38 @@
 **Disciplina:** Experiência Profissional: Desenvolvimento de Aplicações (2026)
 
 ---
+## GRUPOS
+
+### G1
+- MARIA*
+- TOMATE
+- VINICIUS
+- MATHEUS BUENO SOSSAI
+- BRUNO
+- CARLOS
+- FELIPE
+
+### G2
+- APOLLO
+- MILTON
+- NICOLE
+- MATEUS
+
+### G3
+- RENAN EVARISTO
+- SAMUEL
+- JOSE
+- JOAO PEDRO
+
+### G4
+- ENZO
+- LAURO
+- LUCAS
+- RENAN NEGRINI
+- GUSTAVO KENZO
+- ADRIEL
+
+---
 
 ![Banner da disciplina](./assets/banner-experiencia-profissional-2026.png)
 
