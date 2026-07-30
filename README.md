@@ -66,6 +66,8 @@ Repositório oficial para organização e acompanhamento da disciplina **Experi�
 
 ## Diagramas
 
+https://whimsical.com/
+
 https://mermaid.ai/
 
 https://miro.com/
