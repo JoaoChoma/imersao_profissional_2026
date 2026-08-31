@@ -2,7 +2,7 @@
 
 # Como padronizar? 
 
-## Siga os passos e entregue em 29/08/2026 no classroom o link do Github com os documentos
+## Siga os passos
 
 # Padrão para Regras de Negócio e Requisitos
 
